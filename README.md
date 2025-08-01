@@ -45,6 +45,7 @@ normal text
 
 ## Image
 ![Dshboard](image.png)
+![Dshboard](hi.jpg)
 
 ## link
 
@@ -58,3 +59,12 @@ CSS Framwork [ Bootsrap] (https://getbootstrap.com/)
 for i in range(hi)
     print(i)
 ```
+## Button
+<a herf="https://www.pinterest.com/" target="_blank">printes</a>
+
+## Badge
+
+[![add](https://img.shields.io/badge/learing-pink)](https://www.pinterest.com/)
+
+## Contributor
+- [@vicheka884](https://github.com/vicheka884)
