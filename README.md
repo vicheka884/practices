@@ -28,3 +28,17 @@ normal text
 ## Block Quote
 
 > This is my block Quote
+
+## List 
+- list one 
+- list two
+- list three 
+    -sub 1
+    - sub 2
+
+1. list 1
+2. list 2
+3. list 2
+
+    i. sub 1
+    j. sub 2
