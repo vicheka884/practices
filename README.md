@@ -42,3 +42,19 @@ normal text
 
     i. sub 1
     j. sub 2
+
+## Image
+![Dshboard](image.png)
+
+## link
+
+CSS Framwork [ Bootsrap] (https://getbootstrap.com/)
+
+## Single line 
+`print("Hello welcome to my world")
+
+## Mutiple line
+```python
+for i in range(hi)
+    print(i)
+```
